@@ -314,6 +314,11 @@ footer {
 
   .description {
     font-size: 1.75rem;
+    margin-bottom: 10%;
+  }
+
+  .projects {
+    margin-top: 10%;
   }
 
   .projects .title {
@@ -345,7 +350,6 @@ footer {
   .slides-mobile {
     display: flex;
     margin: 5% 0 2% -0.75rem !important;
-    position: relative;
   }
 
   .slides-mobile img {
@@ -358,7 +362,7 @@ footer {
 
   .dots {
     display: flex;
-    position: absolute;
+    position: relative;
     z-index: 5;
     margin: 1% 0 0 0;
   }
