@@ -277,7 +277,7 @@ footer {
 }
 
 /* Responsive */
-@media (max-width: 991.98px) {
+@media (max-width: 768px) {
   .titles {
     width: 100%;
   }
