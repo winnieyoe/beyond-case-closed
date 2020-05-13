@@ -229,7 +229,8 @@ img {
 
 .project-title {
   font-family: 'GT-Sectra-Medium';
-  font-size: 1.5rem;
+  font-size: 1.625rem;
+  line-height: 1.1;
   margin: 0 1.25rem 0 1.25rem;
   font-variant-numeric: lining-nums;
   -moz-font-feature-settings: "lnum";
@@ -241,7 +242,7 @@ img {
 .small-text {
   font-family: 'Basis-Grosteque-Mono';
   font-size: 0.75rem;
-  margin-top: 0.5%;
+  margin-top: 1%;
   text-indent: 1.125rem;
 }
 
@@ -331,6 +332,10 @@ footer {
 
   .text {
     margin-right: auto;
+  }
+
+  .content {
+    font-size: 0.875rem;
   }
 
   .slides {
