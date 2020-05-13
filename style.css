@@ -303,17 +303,21 @@ footer {
     margin: 3% 8%;
   }
 
+  .header {
+    margin: 3% 8%;
+  }
+
   .about {
     display: none;
   }
 
   .about-mobile {
-    margin: 3% auto;
     font-family: 'Basis-Grosteque-Medium';
     font-size: 0.675rem;
     display: block;
     text-align: right;
     line-height: 1.5;
+    margin-top: 2.5%;
   }
 
   .projects .title {
