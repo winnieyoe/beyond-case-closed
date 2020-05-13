@@ -320,6 +320,10 @@ footer {
     margin-top: 2.5%;
   }
 
+  .description {
+    font-size: 2rem;
+  }
+
   .projects .title {
     margin: 8% auto 10% auto;
   }
