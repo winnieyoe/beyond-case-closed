@@ -350,6 +350,7 @@ footer {
   .slides-mobile {
     display: flex;
     margin: 5% 0 2% -0.75rem !important;
+    position: relative;
   }
 
   .slides-mobile img {
@@ -362,7 +363,7 @@ footer {
 
   .dots {
     display: flex;
-    position: relative;
+    position: absolute;
     z-index: 5;
     margin: 1% 0 0 0;
   }
