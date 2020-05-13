@@ -235,7 +235,7 @@ img {
   -moz-font-feature-settings: "lnum";
   -webkit-font-feature-settings: "lnum";
   font-feature-settings: "lnum";
-  text-indent: -1.875rem;
+  text-indent: -1.75rem;
 }
 
 .small-text {
@@ -261,14 +261,6 @@ img {
   font-family: 'GT-Sectra-Regular';
   font-size: 1.125rem;
   margin: 6% 1.125rem 0% 1.125rem;
-}
-
-.player .vp-title .vp-portrait {
-  display: none !important;
-}
-
-.player .vp-sidedock, .player .vp-sidedock .sidedock-inner {
-  display: none !important;
 }
 
 footer {
@@ -300,7 +292,7 @@ footer {
   }
 
   footer {
-    margin: 3% 8%;
+    margin: 3% 8% 5% 8%;
   }
 
   .header {
@@ -317,7 +309,6 @@ footer {
     display: block;
     text-align: right;
     line-height: 1.5;
-    margin-top: 2.5%;
   }
 
   .description {
@@ -331,6 +322,7 @@ footer {
   .one-project {
     display: flex;
     flex-direction: column;
+    margin-bottom: 22%;
   }
 
   .project-small-text {
@@ -367,9 +359,11 @@ footer {
 
   .content {
     margin-left: -0.75rem;
+    margin-top: 6%;
   }
 
   .cta {
     margin-left: -0.75rem;
+    margin-top: 14%;
   }
 }
