@@ -5,7 +5,6 @@
   src: url('assets/fonts/GT-Sectra-Fine-Regular.ttf');
 }
 
-
 @font-face {
   font-family: 'GT-Sectra-Medium';
   font-style: normal;
@@ -246,6 +245,12 @@ img {
   text-indent: 1.125rem;
 }
 
+.small-text2 {
+  font-family: 'Basis-Grosteque-Mono';
+  font-size: 0.75rem;
+  margin-left: 1.25rem;
+}
+
 .project-small-text {
   font-family: 'Basis-Grosteque-Mono';
   font-size: 0.75rem;
@@ -337,6 +342,10 @@ footer {
 
   .text {
     margin-right: auto;
+  }
+
+  .small-text2 {
+    margin-left: -0.75rem;
   }
 
   .content {
