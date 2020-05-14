@@ -269,9 +269,19 @@ img {
   margin: 6% 1.125rem 0% 1.125rem;
 }
 
+.credits {
+  margin: 4% 8%;
+}
+
+.credits .small-text {
+  text-indent: 0;
+  margin-top: 2%;
+  line-height: 1.8;
+}
+
 footer {
-  text-align: right;
   margin: 3% 8%;
+  text-align: right;
 }
 
 /* Responsive */
