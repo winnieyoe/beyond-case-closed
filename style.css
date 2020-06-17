@@ -87,6 +87,7 @@ a:hover {
   line-height: 0.5rem;
 }
 
+
 .about {
   font-size: 0.75rem;
 }
@@ -99,11 +100,19 @@ a:hover {
   font-family: 'Basis-Grosteque-Bold';
 }
 
-.description {
+.summary {
   margin: 7% 8% 5% 8%;
+}
+
+.description {
+  /* margin: 7% 8% 5% 8%; */
   font-family: 'GT-Sectra-Medium';
   font-size: 2.25rem;
   line-height: 1.5;
+}
+
+.link {
+  font-family: 'Basis-Grosteque-Medium';
 }
 
 .projects {
